@@ -20,7 +20,7 @@ Os notebooks são independentes entre si e podem ser executados em qualquer orde
 Os dados são públicos e foram obtidos no Ipeadata (www.ipeadata.gov.br). Eles não estão incluídos neste repositório. Para executar os notebooks, baixe as séries abaixo e salve-as na pasta `dados_usados/`, com os nomes indicados.
 
 | Arquivo esperado em `dados_usados/` | Série (código Ipeadata) | Fonte |
-|---|---|---|---|
+|---|---|---|
 | `PIBPCE_pib_estadual_per_capita_precos_2010_[17-08-2026].csv` | PIB Estadual per capita – preços de mercado (preços de 2010) (PIBPCE) | IBGE |
 | `GAC_PIBCAPN_pib_per_capita_brasil_nominal_[04-11-2026].xls` | PIB per capita (GAC_PIBCAPN) | Ipea | 
 | `SCN10_DIPIBG10_deflator_implicito_pib_[04-11-2026].xls` | PIB – preços de mercado – deflator implícito – variação anual (SCN10_DIPIBG10) | IBGE | 
