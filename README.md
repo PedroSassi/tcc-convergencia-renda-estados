@@ -6,12 +6,12 @@ Notebooks em Python (Jupyter) do Trabalho de Conclusão de Curso de Pedro Sassi,
 
 | Notebook | O que faz | Onde aparece no trabalho |
 |---|---|---|
-| `CONTEXTO/CONTEXTO_DESIGUALDADE_OFICIAL.ipynb` | Crescimento da renda per capita nacional, renda relativa das regiões, participações no PIB e na população e índice de Theil | Seção 4.1 (Figuras 1 a 3 e Tabela 1) |
-| `BETACONVERGENCIA/BETA_CONVERGENCIA_ATUALIZADO_OFICIAL.ipynb` | Beta-convergência absoluta e especificações de robustez | Seção 4.2.1 (Tabela 2 e Figura 4) |
-| `BETACONVERGENCIA/BETA_CONDICIONAL_SOLOW_OFICIAL.ipynb` | Beta-convergência condicional (especificação de Solow) e relação entre escolaridade e renda inicial | Seção 4.2.2 (Tabela 3 e Figura 5) |
-| `SIGMA/SIGMA_CONVERGENCIA_ATUALIZADO_OFICIAL.ipynb` | Sigma-convergência (desvio-padrão do logaritmo e coeficiente de variação) | Seção 4.3 (Figura 6 e Tabela 4) |
-| `QUAH/KERNEL_DENSIDADES_OFICIAL.ipynb` | Densidades kernel da renda per capita relativa em 2002, 2012 e 2023 | Seção 4.4.1 (Figura 7) |
-| `QUAH/QUAH_ VERSAO OFICIAL.ipynb` | Cadeia de Markov: matriz de transição, distribuição projetada e distribuição de longo prazo | Seção 4.4.2 (Tabelas 5 e 6) |
+| `CONTEXTO/01_contexto.ipynb` | Crescimento da renda per capita nacional, renda relativa das regiões, participações no PIB e na população e índice de Theil | Seção 4.1 (Figuras 1 a 3 e Tabela 1) |
+| `BETACONVERGENCIA/02_beta_absoluta.ipynb` | Beta-convergência absoluta e especificações de robustez | Seção 4.2.1 (Tabela 2 e Figura 4) |
+| `BETACONVERGENCIA/03_beta_condicional.ipynb` | Beta-convergência condicional (especificação de Solow) e relação entre escolaridade e renda inicial | Seção 4.2.2 (Tabela 3 e Figura 5) |
+| `SIGMA/04_sigma.ipynb` | Sigma-convergência (desvio-padrão do logaritmo e coeficiente de variação) | Seção 4.3 (Figura 6 e Tabela 4) |
+| `QUAH/05_kernel.ipynb` | Densidades kernel da renda per capita relativa em 2002, 2012 e 2023 | Seção 4.4.1 (Figura 7) |
+| `QUAH/06_markov.ipynb` | Cadeia de Markov: matriz de transição, distribuição projetada e distribuição de longo prazo | Seção 4.4.2 (Tabelas 5 e 6) |
 
 Os notebooks são independentes entre si e podem ser executados em qualquer ordem. Cada um grava suas tabelas e figuras em uma subpasta `resultados/`, criada automaticamente.
 
